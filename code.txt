@@ -1,0 +1,6 @@
+项目需求
+在当前目录创建一个Playwright Python自动化测试项目，名字为PlaywrightBingSearch，具体功能如下：
+1.登录https://cn.bing.com/
+2.在搜索框输入:this is a test
+3.在搜索结果页面截图
+4.将截图保存至当前目录的screenshot文件夹
